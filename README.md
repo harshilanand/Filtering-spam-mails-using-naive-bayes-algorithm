@@ -1,1 +1,1 @@
-# Classifying-Cats-and-Dogs-Images
+# Filtering-spam-mails-using-naive-bayes-algorithm
